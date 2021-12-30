@@ -9,7 +9,6 @@ export default class HigherOrderComponent extends Component {
                 { id: '3', name: 'John', user_type: 'Teacher', age:24,years: 2},
                 { id: '4', name: 'Sam', user_type: 'Entreprenuer', age:58,years:25},
                 { id: '5', name: 'Jack', user_type: 'Designer', age:43, years: 18}
-
             ]
          }
     }
